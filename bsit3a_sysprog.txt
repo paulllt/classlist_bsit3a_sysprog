@@ -1,4 +1,3 @@
 NUMBER	FIRSTNAME	LASTNAME	MIDDLEINITIAL
 			
-1	Aleli	Tito	A.
-2	Arsenio	Novida Jr.	P.
+1	Arsenio	Novida Jr.	P.
