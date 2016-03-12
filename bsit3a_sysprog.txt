@@ -9,24 +9,23 @@ NUMBER	FIRSTNAME	LASTNAME	MIDDLEINITIAL
 7	Krissa	Niemes	A.	
 8	Abel	Gramaje	D.	
 9	Angelica	Lucero	T.	
-10	Jasmin	Flores	C.	
-11	Jonalyn	Tacson	 B.	-3
-12	Julie ann	Payuyo	N.	
-13	Sarah Gay	Calimlim	C.	
-14	Myrelle	Pimentel	D.	
-15	April Jemely	Velasco	A.	-2
-16	Sheryl Joy	Pascua	S.	-3
-17	Josie	Agnahe	B.	-3
-18	Beverly Grace	Huerta	I.	
-19	Abegail	Santiago	 M.	-3
-20	Jhamieca	Berras	C.	
-21	Jobelle 	Planas	C.	-2
-22	Christian Joe	Cabar	P.	
-23	Evie Marie	Besa	S.	
-24	Joylyn	Gin-om	L.	
-23	Evie Marie	Besa	S.	
-24	Sharon	Dulnuan	T.	
-25	Rosie May	Jaronel	B.	
-26	Guiller	Natividad	P.	
-27	Novelyn	Dulawan	G.	
-28	Jasmin	Flores	C.
+10	Jonalyn	Tacson	 B.	-3
+11	Julie ann	Payuyo	N.	
+12	Sarah Gay	Calimlim	C.	
+13	Myrelle	Pimentel	D.	
+14	April Jemely	Velasco	A.	-2
+15	Sheryl Joy	Pascua	S.	-3
+16	Josie	Agnahe	B.	-3
+17	Beverly Grace	Huerta	I.	
+18	Abegail	Santiago	 M.	-3
+19	Jhamieca	Berras	C.	
+20	Jobelle 	Planas	C.	-2
+21	Christian Joe	Cabar	P.	
+22	Evie Marie	Besa	S.	
+23	Joylyn	Gin-om	L.	
+24	Evie Marie	Besa	S.	
+25	Sharon	Dulnuan	T.	
+26	Rosie May	Jaronel	B.	
+27	Guiller	Natividad	P.	
+28	Novelyn	Dulawan	G.	
+29	Jasmin	Flores	C.	
